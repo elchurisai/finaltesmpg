@@ -31,6 +31,13 @@ public class ApplicationTest {
         System.out.println("I am in JUNIT 5 test"+aPack.multiple_test(15,16));
     }
 
+    @Test
+    public void  test3() {
+        System.out.println("I am in JUNIT 5 test"+aPack.multiple_test(20,22));
+        System.out.println("tstttiitn");
+    }
+
+
     @AfterEach
 
     public  void afterrunningMethof() {
