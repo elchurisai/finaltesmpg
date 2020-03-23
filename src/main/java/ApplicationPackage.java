@@ -15,6 +15,11 @@ public class ApplicationPackage {
         System.out.println("enpire");
     }
 
+    public void pollscm() {
+
+        System.out.println("enpire");
+    }
+
     public void anothercommit() {
 
         System.out.println("the testing");
